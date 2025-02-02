@@ -27,7 +27,7 @@ This directory contains all test files for the RSS Feed Reader project.
 ### Installation
 
 ```bash
-pip install -r requirements-test.txt
+pip install -r requirements.txt
 
 ```
 
