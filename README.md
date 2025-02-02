@@ -10,6 +10,7 @@ A command-line RSS feed reader supporting both RSS and Atom formats.
 - Item limit option
 - Error handling for invalid feeds
 - HTML content cleaning
+- Security: XML bomb protection
 
 ## Installation
 
@@ -51,9 +52,7 @@ Then enter the feed URL when prompted.
 python -m src.parser.cli
 ```
 
-Enter multiple URLs separated by spaces when prompted.
-
-After entering URLs, you'll be prompted to enter the maximum number of items to display.
+Enter multiple URLs **separated by spaces** when prompted.
 
 ## Tech Stack
 
@@ -76,6 +75,10 @@ Link: https://meha.ai
 --------------------------------------------------
 ...
 ```
+
+## Demo
+
+Check out the [live demo](https://screen.studio/share/vDNeo9iv) to see the RSS Feed Reader in action.
 
 ## Contributing
 
