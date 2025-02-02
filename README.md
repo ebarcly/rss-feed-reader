@@ -69,8 +69,8 @@ Enter multiple URLs **separated by spaces** when prompted.
 Fetching feed from: https://hnrss.org/frontpage
 Found 30 items:
 --------------------------------------------------
-Title: Show HN: We're building a desktop app for browser agents
-Description: What's up HN! This is Jared and Art. We met on HN and started building together...
+Title: Show HN: "We're building a desktop app for browser agents"
+Description: "What's up HN! This is Jared and Art. We met on HN and started building together..."
 Link: https://meha.ai
 --------------------------------------------------
 ...
