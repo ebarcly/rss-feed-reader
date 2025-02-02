@@ -88,4 +88,4 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-[MIT](https://github.com/ebarcly/rss-feed-reader)
+[MIT](https://github.com/ebarcly/rss-feed-reader/blob/main/LICENSE)
