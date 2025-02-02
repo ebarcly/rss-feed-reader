@@ -28,29 +28,17 @@ This directory contains all test files for the RSS Feed Reader project.
 
 ```bash
 pip install -r requirements-test.txt
+
 ```
 
 ### Running All Tests
 
-```bash pytest
+```bash
+pytest tests/test_parser.py -v
 
 ```
 
-### Running Specific Tests
-
-# Run tests in a specific file
-
-pytest tests/test_parser.py
-
-# Run tests with specific markers
-
-pytest -m "parser"
-
-# Run tests with coverage report
-
-pytest --cov=src tests/
-
-# Test Configuration
+### Test Configuration
 
 - Description of any configuration files
 
