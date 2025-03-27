@@ -10,7 +10,7 @@ def get_user_urls() -> List[str]:
     return [url for url in urls if url]  # Filter out empty strings
 
 def process_feed(url: str) -> None:
-    print(f"\nFetching feed from: {url}")
+    print(f"\nFeching feed from: {url}")
     parser = RSSParser(url)
     items = parser.parse_items()
 
